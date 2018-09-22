@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CervecerosDemo</string>
+    <string name="title_activity_reference">ReferenceActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_user_pass">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">No tienes cuenta?</string>
+    <string name="create_here">Crea una aquí</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="text_button_account">Unete</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirme Password</string>
+    <string name="text_button_ceateaccount">Unete</string>
+</resources>
