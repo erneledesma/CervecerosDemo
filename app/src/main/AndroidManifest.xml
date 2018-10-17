@@ -20,17 +20,14 @@
             android:name=".ReferenceActivity"
             android:label="@string/title_activity_reference"
             android:theme="@style/AppTheme.NoActionBar" />
-
-
-        <activity android:name=".view.CreateAccountActivity"
-                  android:parentActivityName=".LoginActivity">
-            <meta-data android:name="android.support.PARENT_ACTIVITY"
+        <activity
+            android:name=".view.CreateAccountActivity"
+            android:parentActivityName=".LoginActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
                 android:value=".LoginActivity" />
         </activity>
-
-
-
-
+        <activity android:name=".view.ContainerActivity"></activity>
     </application>
 
 </manifest>
