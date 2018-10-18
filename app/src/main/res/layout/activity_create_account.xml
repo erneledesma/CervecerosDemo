@@ -8,7 +8,7 @@
     android:fitsSystemWindows="true"
     tools:context=".view.CreateAccountActivity">
 
-    <include layout="@layout/actionlayout_toolbar"></include>
+    <include layout="@layout/actionbar_toolbar"></include>
 
     <ScrollView
         android:layout_width="match_parent"

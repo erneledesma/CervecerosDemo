@@ -15,5 +15,14 @@
     <string name="hint_confirm_password">Confirme Password</string>
     <string name="text_button_ceateaccount">Unete</string>
     <string name="toolbar_tittle_createaccount">Crear Cuenta</string>
+    <string name="username_card">LAGASH</string>
+    <string name="firstword_card">Hace 4 dias</string>
+    <string name="likenumber_card">10 Me gusta</string>
+    <string name="search_tab">Buscar</string>
+    <string name="home_tab">Home</string>
+    <string name="profile_tab">Yo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
