@@ -14,7 +14,7 @@
         android:layout_height="match_parent">
 
      <ImageView
-         android:id="@+id/picturecard"
+         android:id="@+id/pictureCard"
          android:layout_width="match_parent"
          android:layout_height="@dimen/height_cardview"
          android:background="@drawable/cerveza"
@@ -49,6 +49,15 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="@string/firstword_card"
+                    android:textColor="@color/editTextColorWhite"
+                    android:textSize="@dimen/firsword_textsize" />
+
+                <TextView
+                    android:id="@+id/timeCard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/timecard_marginleftcard"
+                    android:text="@string/likenumber_card"
                     android:textColor="@color/editTextColorWhite"
                     android:textSize="@dimen/firsword_textsize" />
 

@@ -16,4 +16,5 @@
     <string name="hint_confirm_password">Confirme Password</string>
     <string name="text_button_ceateaccount">Unete</string>
     <string name="username_card">LAGASH</string>
+    <string name="secondword_detail">Me gusta</string>
 </resources>

@@ -15,6 +15,16 @@
     <dimen name="bottom_height">60dp</dimen>
     <dimen name="bottombar_height">60dp</dimen>
     <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="appbarlayout_picturedetail">256dp</dimen>
+    <dimen name="username_detail">25dp</dimen>
+    <dimen name="textsize_detail">15sp</dimen>
+    <dimen name="seconddetail">15sp</dimen>
+    <dimen name="margin_detailsecond">7dp</dimen>
+    <dimen name="horizontalviewdetail">1dp</dimen>
+    <dimen name="textsize_titleimage">15sp</dimen>
+    <dimen name="textsizeLorem">15sp</dimen>
+    <dimen name="paddin_vertical_detail">20dp</dimen>
+    <dimen name="padding_vertical_detail">35dp</dimen>
 
 
 </resources>
