@@ -96,8 +96,8 @@ public class PictureAdapterRecyclerView extends RecyclerView.Adapter<PictureAdap
 
             // Instanciamos sobre las clases inners
 
-            pictureCard    =   itemView.findViewById(R.id.pictureCard);
-            usernameCard   = itemView.findViewById(R.id.userNameCard);
+            pictureCard    =  itemView.findViewById(R.id.pictureCard);
+            usernameCard   =  itemView.findViewById(R.id.userNameCard);
             timeCard       =  itemView.findViewById(R.id.timeCard);
             likeNumberCard =  itemView.findViewById(R.id.likeNumberCard);
 
